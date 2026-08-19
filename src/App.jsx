@@ -1402,7 +1402,7 @@ const MainContent = () => {
           borderRadius: '16px',
           marginBottom: '20px',
           display: 'flex',
-          align-items: 'center',
+          alignItems: 'center',
           justifyContent: 'space-between',
           boxShadow: '0 8px 20px rgba(147, 51, 234, 0.25)'
         }}>
